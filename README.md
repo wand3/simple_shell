@@ -1,6 +1,11 @@
 # simple_shell
 
 # A simple C shell project
+#### Compilation
+'''
+gcc -Wall -Werror -Wextra -pendatic -std=gnu89 *.c -o hsh
+
+'''
 
 # List of allowed functions and system calls
  
