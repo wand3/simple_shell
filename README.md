@@ -74,4 +74,4 @@ This file contains the details of all the individuals that contributed to this s
 
 # Credits
 
-All codes been written by Tijani Adebowale and Babawande
+All codes been written by Tijani Adebowale and Baiyewu Babawande
