@@ -117,7 +117,7 @@ void find_cmd(info_t *info)
 			print_error(info, "not found\n");
 		}
 	}
-[O}
+}
 
 /**
  * fork_cmd - forks a an exec thread to run cmd
