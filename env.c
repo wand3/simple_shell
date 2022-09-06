@@ -6,6 +6,11 @@
  *          constant function prototype.
  * Return: Always 0
  */
+int _myenv(info_t *info)
+{
+	print_list_str(info->env);
+	return (0);
+}
 
 /**
  * _getenv - gets the value of an environ variable
